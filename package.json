@@ -1,0 +1,16 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "Gestion de cuentas corrientes del banco popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Curso",
+    "Alura"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
